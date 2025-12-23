@@ -1,0 +1,8 @@
+site_name: Care Home Guidance
+nav:
+  - Home: index.md
+  - Laundry guidance: laundry-guidance.md
+  - Cleaning practices: care-home-cleaning.md
+  - Service references: service-references.md
+
+docs_dir: docs
