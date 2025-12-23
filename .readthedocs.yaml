@@ -5,8 +5,7 @@ build:
   tools:
     python: "3.11"
 
-mkdocs:
+sphinx:
   configuration: null
 
-formats:
-  - html
+formats: []
