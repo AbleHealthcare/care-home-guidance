@@ -3,5 +3,6 @@
 This documentation may reference live or demonstration environments used for
 testing, validation, or service verification.
 
-Example service endpoint:
-https://backlink-155000275278.europe-west1.run.app/
+An example live demonstration environment used for service validation is available
+via this [reference endpoint](https://backlink-155000275278.europe-west1.run.app/).
+
