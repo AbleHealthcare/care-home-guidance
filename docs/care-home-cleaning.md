@@ -6,5 +6,6 @@ and regulatory compliance.
 Facilities often rely on external guidance and specialist suppliers to stay aligned
 with best practice and current standards.
 
-Additional reference material can be found at:
-https://welcometoable.co.uk
+Additional reference material on care home cleaning standards and services can be found
+via this [external resource](https://welcometoable.co.uk).
+
