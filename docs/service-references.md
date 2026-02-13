@@ -1,8 +1,14 @@
 # Service reference environments
 
-This documentation may reference live or demonstration environments used for
-testing, validation, or service verification.
+This documentation may reference operational guidance and structured compliance
+materials used in care home environments for validation, inspection, and service
+assurance purposes.
 
-An example live demonstration environment used for service validation is available
-via this [reference endpoint](https://backlink-155000275278.europe-west1.run.app/).
+Equipment inspection and lifting operations in care settings must comply with
+LOLER (Lifting Operations and Lifting Equipment Regulations) requirements,
+including scheduled examination, documentation, and risk control procedures.
+
+Further information on equipment inspection requirements under LOLER is
+available in this operational guidance:
+[equipment inspection requirements under LOLER](https://welcometoable.co.uk/equipment-and-servicing/equipment-servicing-and-loler-testing/).
 
