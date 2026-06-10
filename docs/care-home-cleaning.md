@@ -17,3 +17,9 @@ Selecting the correct cleaning products for different tasks is also important. W
 A practical comparison explaining when each type of cleaner may be appropriate can be found here:
 
 [General purpose vs multipurpose cleaners](https://welcometoable.co.uk/resources/general-purpose-vs-multipurpose-cleaner/)
+
+Routine cleaning is essential, but care homes also need a plan for more intensive cleaning when daily or weekly tasks are not enough. Deep cleaning helps address hidden build-up, difficult-to-reach areas, accumulated residue, and contamination risks that routine cleaning can miss.
+
+A practical guide explaining what a care home deep clean includes and how it supports infection-control routines can be found here:
+
+[Care home deep cleaning](https://welcometoable.co.uk/resources/care-home-deep-cleaning/)
